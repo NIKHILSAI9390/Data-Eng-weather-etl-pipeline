@@ -1,0 +1,6 @@
+apache-airflow
+pandas
+pyarrow
+boto3
+s3fs
+requests
