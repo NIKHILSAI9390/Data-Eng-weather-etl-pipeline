@@ -144,21 +144,7 @@ Validates:
 
 ---
 
-## 🧠 Resume Value
 
-This project demonstrates:
-
-✔ Apache Airflow orchestration  
-✔ REST API integration  
-✔ Schema validation & data quality checks  
-✔ Partitioned Parquet data lake design  
-✔ AWS S3 cloud integration  
-✔ Environment-based configuration (dev/prod)  
-✔ Parameterized pipelines  
-✔ Email alerting & retry strategy  
-✔ Production-style ETL architecture  
-
----
 
 ## 📌 Future Improvements (Next Level)
 
